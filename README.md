@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @levio7
 - 👀 I’m interested in Programming, Capital Market and Tennis
-- 🌱 I’m currently learning Computer Science Degree, Java, Javascript, PHP
+- 🌱 I’m currently learning Computer Science Degree
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
