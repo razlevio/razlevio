@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @levio7
-- 👀 I’m interested in Programming, Capital Market and Tennis
+- 👋 Hi, I’m @razlevio
+- 👀 I’m interested in Software Engineering, Tennis and The Capital Market
 - 🌱 I’m currently learning Computer Science Degree
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 levio7/levio7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
