@@ -28,7 +28,7 @@ I am a lifelong learner with an unquenchable thirst for knowledge, and I love to
 <div>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=razlevio&theme=vue&hide_border=true" alt="Contributions" width="45%" align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=razlevio&show_owner=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=vue" alt="Github Stats" width="45%" align="left">
-<img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=razlevio&hide_title=true&hide_border=true&langs_count=5&theme=vue" alt ="Coding Activity" width="90%">
+<img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=razlevio&hide_title=true&hide_border=true&langs_count=5&theme=vue" alt ="Coding Activity" width="92%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razlevio&show_icons=true&hide_border=true&theme=vue" alt="Most Used Languages" width="45%">
 </div>
 
