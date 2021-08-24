@@ -1,5 +1,4 @@
 <img alt="Background Image" src="https://raw.githubusercontent.com/razlevio/razlevio/main/resources/DevCover.png"/>
- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="100%">
 
 # Hello folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">,   I am Raz Levi 
 
@@ -27,7 +26,7 @@ I am a lifelong learner with an unquenchable thirst for knowledge, and I love to
 
 ##  📊 GitHub & Coding Stats
 <div>
-<img src="https://github-readme-streak-stats.herokuapp.com/?		user=razlevio&theme=vue&hide_border=true" alt="Contributions" width="50%" 	align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=razlevio&theme=vue&hide_border=true" alt="Contributions" width="50%" 	align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=razlevio&show_owner=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=vue" alt="Github Stats" width="50%" align="left">
 <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=razlevio&hide_title=true&hide_border=true&langs_count=5&theme=vue" alt ="Coding Activity" width="100%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razlevio&show_icons=true&hide_border=true&theme=vue" alt="Most Used Languages" width="50%">
