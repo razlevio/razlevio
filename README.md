@@ -10,6 +10,7 @@
   <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white">
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
   <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black">
+  <br>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img alt="css" src="https://img.shields.io/badge/-CSS3-E34F26?style=flat-square&logo=CSS3&logoColor=white">
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">
