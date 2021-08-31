@@ -42,10 +42,17 @@
 <!-- Stats Section -->
 ##  📊 GitHub & Coding Stats
 <div>
+<<<<<<< HEAD
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=razlevio&theme=vision-friendly-dark&hide_border=true" alt="Contributions" width="45%" align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=razlevio&show_owner=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=vision-friendly-dark" alt="Github Stats" width="45%" align="left">
   <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=@razlevio&hide_border=true&langs_count=5&theme=vision-friendly-dark" width="45%">
   &nbsp&nbsp&nbsp<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razlevio&show_icons=true&hide_border=true&theme=vision-friendly-dark" alt="Most Used Languages" width="45%">
+=======
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=razlevio&theme=chartreuse-dark&hide_border=true" alt="Contributions" width="45%" align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=razlevio&show_owner=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=chartreuse-dark" alt="Github Stats" width="45%" align="left">
+<img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=razlevio&hide_title=true&hide_border=true&langs_count=5&theme=chartreuse-dark" width="45%">
+&nbsp&nbsp&nbsp<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razlevio&show_icons=true&hide_border=true&theme=chartreuse-dark" alt="Most Used Languages" width="45%">
+>>>>>>> parent of 613ce3f (Update README.md)
 </div>
 
 <!-- Contact Information Section -->
