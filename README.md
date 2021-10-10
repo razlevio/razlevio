@@ -1,7 +1,8 @@
 <!-- PREFERRED ICON STYLES: style=flat-square OR style=flat-square -->
 
 <!-- Intro Image -->
-<img alt="Background Image" src="https://raw.githubusercontent.com/razlevio/razlevio/main/resources/DevCover.png"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=razlevio" alt="razlevio" /> </p>
+<p align="center"> <img src="resources/illustration.svg" alt="WelcomeImage" height=300/> </p>
 
 <!-- Tech Stack Section -->
 
@@ -12,6 +13,7 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white">
+  <img alt="C" src="https://img.shields.io/badge/-C-007396?style=flat-square&logo=C&logoColor=white">
   <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white">
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
   <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black">
