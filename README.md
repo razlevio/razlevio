@@ -5,7 +5,6 @@
 <p align="center"> <img src="resources/illustration.svg" alt="WelcomeImage" height=300/> </p>
 
 <!-- Tech Stack Section -->
-
 ## 🛠️ Tech Stack
 
 <p>
@@ -29,7 +28,6 @@
 </p>
 
 <!-- About Me Section -->
-
 ## 📜 About Me:
 
 **Hello folks** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, **I am Raz Levi**
@@ -46,7 +44,6 @@ I enjoy both front-end for creating practical, functional, and enjoyable user ex
 </p>
 
 <!-- Stats Section -->
-
 ## 📊 GitHub & Coding Stats
 
 <div>
@@ -57,7 +54,6 @@ I enjoy both front-end for creating practical, functional, and enjoyable user ex
 </div>
 
 <!-- Contact Information Section -->
-
 ## ❤️ Let's get connected
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/razlevi/)](https://www.linkedin.com/in/razlevi) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/razlevio)](https://twitter.com/razlevio) [ ![Mail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&labelColor=EA4335&logo=Gmail&logoColor=white&link=mailto:razlevio.55@gmail.com)](mailto:razlevio.55@gmail.com) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/razlevio)](https://github.com/razlevio) [![Website](https://img.shields.io/badge/-levio.dev-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://razlevi.dev)](https://inconstruction)
