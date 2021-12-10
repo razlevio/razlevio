@@ -34,13 +34,14 @@
 
 - :computer: I'm currently Computer Science Student
 - :rocket: Always ready to collaborate for developement experiments
+- :brain: Mindeset: "Live as if you were to die tomorrow, Learn as if you were to live forever"
 - :dart: Life Hack: "The better we get at getting better, the faster we will get better"
 - :zap: Fun fact: I am a Tennis player
 <p>
 I am an ambitious, passionate, and autodidact software developer, a lifelong learner with an unquenchable thirst for knowledge, and I love to be in a constant state of learning and improving. Furthermore, I have a never-ending desire to create beautiful and powerful things, and the ability to share them with the world drives me to continue developing and growing. I love diving into details, analyzing whatever I am dealing with to find root causes and underlying meanings. I am obsessed with the idea of developing software to solve practical problems, and I strive to stand on the vanguard of technology and innovate immersive digital experiences that make life better. Software engineering is a never-ending puzzle that I am genuinely passionate about solving. I believe that software development can transform and improve people's lives worldwide, and I am excited that I have the opportunity to make an impact and take part in such an innovative and important industry.
 </p>
 <p>
-I enjoy both front-end for creating practical, functional, and enjoyable user experiences and back-end for building scalable and clean software. In addition, trying to solve challenging engineering and architectural problems is pleasant for me. Therefore, I am seeking opportunities that will allow me to take the initiative to deliver technical solutions, make an impact, and utilize my skill set and abilities for an established and growing company.
+I enjoy both front-end for creating practical, functional, and enjoyable user experiences and back-end for building scalable and clean softwares. In addition, trying to solve challenging engineering and architectural problems is pleasant for me. Therefore, I am seeking opportunities that will allow me to take the initiative to deliver technical solutions, make an impact, and utilize my skill set and abilities for an established and growing company.
 </p>
 
 <!-- Stats Section -->
