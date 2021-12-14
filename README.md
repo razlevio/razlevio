@@ -33,8 +33,8 @@
 **Hello folks** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, **I am Raz Levi**
 
 - :computer: I'm currently Computer Science Student
-- :rocket: Always ready to collaborate for developement experiments
-- :brain: Mindeset: "Live as if you were to die tomorrow, Learn as if you were to live forever"
+- :rocket: Always ready to collaborate for development experiments
+- :brain: Mindset: "Live as if you were to die tomorrow, Learn as if you were to live forever"
 - :dart: Life Hack: "The better we get at getting better, the faster we will get better"
 - :zap: Fun fact: I am a Tennis player
 <p>
