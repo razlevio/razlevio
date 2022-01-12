@@ -7,8 +7,9 @@
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!-- Tech Stack Section -->
 ## 🛠️ 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
-**ᴩʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇꜱ**
 <div>
+  <b>ᴩʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇꜱ</b>
+  <br>
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img alt="C" src="https://img.shields.io/badge/-C-007396?style=for-the-badge&logo=C&logoColor=white">
@@ -17,17 +18,21 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="css" src="https://img.shields.io/badge/-CSS3-E34F26?style=for-the-badge&logo=CSS3&logoColor=white">
   <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black">
+  <br>
 </div>
 
-**ꜰʀᴀᴍᴇᴡᴏʀᴋꜱ**
 <div>
+  <b>ꜰʀᴀᴍᴇᴡᴏʀᴋꜱ<b>
+  <br>
   <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img alt="django" src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
+  <br>
 </div>
 
-**ᴛᴏᴏʟꜱ ᴀɴᴅ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ**
 <div>
+  <b>ᴛᴏᴏʟꜱ ᴀɴᴅ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ</b>
+  <br>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
   
