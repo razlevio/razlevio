@@ -18,7 +18,6 @@
   <img alt="css" src="https://img.shields.io/badge/-CSS3-E34F26?style=for-the-badge&logo=CSS3&logoColor=white">
   <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black">
 </div>
-<br>
 
 **ꜰʀᴀᴍᴇᴡᴏʀᴋꜱ**
 <div>
@@ -26,7 +25,6 @@
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img alt="django" src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
 </div>
-<br>
 
 **ᴛᴏᴏʟꜱ ᴀɴᴅ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ**
 <div>
