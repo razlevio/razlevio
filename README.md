@@ -10,37 +10,37 @@
 <div>
   <b>ᴩʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇꜱ</b>
   <br>
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-  <img alt="C" src="https://img.shields.io/badge/-C-007396?style=for-the-badge&logo=C&logoColor=white">
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img alt="css" src="https://img.shields.io/badge/-CSS3-E34F26?style=for-the-badge&logo=CSS3&logoColor=white">
-  <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black">
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+  <img alt="C" src="https://img.shields.io/badge/-C-007396?style=flat-square&logo=C&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white">
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img alt="css" src="https://img.shields.io/badge/-CSS3-E34F26?style=flat-square&logo=CSS3&logoColor=white">
+  <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black">
   <br>
 </div>
 
 <div>
   <b>ꜰʀᴀᴍᴇᴡᴏʀᴋꜱ<b>
   <br>
-  <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-  <img alt="django" src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
+  <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white">
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white">
+  <img alt="django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white">
   <br>
 </div>
 
 <div>
   <b>ᴛᴏᴏʟꜱ ᴀɴᴅ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ</b>
   <br>
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
   
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
-  <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=white">
-  <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=white">
-  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
-  <img alt="JetBrains" src="https://img.shields.io/badge/-JetBrains IDE's-000000?style=for-the-badge&logo=JetBrains&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black">
+  <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white">
+  <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white">
+  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
+  <img alt="JetBrains" src="https://img.shields.io/badge/-JetBrains IDE's-000000?style=flat-square&logo=JetBrains&logoColor=white">
 </div>
 <br>
 
