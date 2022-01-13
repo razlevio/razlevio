@@ -76,6 +76,8 @@ I enjoy both front-end for creating practical, functional, and enjoyable user ex
   &nbsp&nbsp&nbsp
   
   <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=@razlevio&hide_border=true&langs_count=5&theme=tokyonight" width="45%">
+  
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=razlevio&bg='#000'" width="92%">
 </div>
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
