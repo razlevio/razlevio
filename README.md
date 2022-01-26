@@ -2,7 +2,7 @@
 
 <!-- Intro Image -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razlevio" alt="razlevio" /> </p>
-<p align="center"> <img src="resources/code.gif" alt="WelcomeImage" height=300/> </p>
+<!--<p align="center"> <img src="resources/code.gif" alt="WelcomeImage" height=300/> </p>>
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!-- Tech Stack Section -->
