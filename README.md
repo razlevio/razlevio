@@ -26,7 +26,6 @@
   <br>
   <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white">
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white">
-  <img alt="django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white">
   <br>
 </div>
 
