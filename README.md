@@ -47,7 +47,7 @@
 <!-- About Me Section -->
 ## 📜 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 
-**Hello folks** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, **I am Raz Levi**
+**Hello folks**, **I am Raz Levi**
 
 - :computer: I'm currently Computer Science Student
 - :rocket: Always ready to collaborate for development experiments
