@@ -49,27 +49,26 @@
  <table align="center">
   <tr>
       <td align="center">
-          <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=razlevio&theme=tokyonight&hide_border=true&background=ffffff00">
+          <a href="https://github.com/razlevio/" target=”_blank” rel="noopener noreferrer"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=razlevio&theme=tokyonight&hide_border=true&background=ffffff00"></a>
       </td>
       <td align="center">
-	      <img align="center" src="https://github-readme-stats.vercel.app/api?username=razlevio&show_owner=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=tokyonight&layout=compact&bg_color=ffffff00&custom_title=My%20Github%20Stats%20%F0%9F%91%BE">
+	      <a href="https://github.com/razlevio/" target=”_blank” rel="noopener noreferrer"><img align="center" src="https://github-readme-stats.vercel.app/api?username=razlevio&show_owner=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=tokyonight&layout=compact&bg_color=ffffff00&custom_title=My%20Github%20Stats%20%F0%9F%91%BE"></a>
       </td>
    </tr>
     <tr>
     <tr>
 	<td align="center">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=razlevio&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true&langs_count=10&custom_title=Wakatime%20Week%20Stats">
+		<a href="https://github.com/razlevio/" target=”_blank” rel="noopener noreferrer"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=razlevio&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true&langs_count=10&custom_title=Wakatime%20Week%20Stats"></a>
 	</td>
 	<td align="center">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razlevio&langs_count=10&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true">
+		<a href="https://github.com/razlevio/" target=”_blank” rel="noopener noreferrer"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razlevio&langs_count=10&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true"></a>
 	</td>
    </tr>
 </table>
-	  	
-  
+	  
   <!--<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=razlevio&bg='#000'" width="92%">-->
 
-<!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------------------------------------------------------------------------->
 <!-- Contact Information Section -->
 ## ❤️ 𝐋𝐞𝐭'𝐬 𝐠𝐞𝐭 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝
 <a href="https://www.linkedin.com/in/razlevi/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/> </a>
