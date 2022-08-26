@@ -47,33 +47,25 @@
 ## 📊 𝐆𝐢𝐭𝐇𝐮𝐛 & 𝐂𝐨𝐝𝐢𝐧𝐠 𝐒𝐭𝐚𝐭𝐬
   
  <table align="center">
-		<tr>
+  <tr>
       <td align="center">
-        <a href="go-nowhere">
           <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=razlevio&theme=tokyonight&hide_border=true&background=ffffff00">
-        </a>
       </td>
-            <td align="center">
-        <a href="go-nowhere">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=razlevio&show_owner=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=tokyonight&layout=compact&bg_color=ffffff00&custom_title=My Github Stats 👾">
-        </a>
+      <td align="center">
+	      <img align="center" src="https://github-readme-stats.vercel.app/api?username=razlevio&show_owner=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=tokyonight&layout=compact&bg_color=ffffff00&custom_title=My%20Github%20Stats%20%F0%9F%91%BE">
       </td>
-    </tr>
-    <tr>
-    <tr>
-		<td align="center">
-		 <a href="#go-nowhere">
-<!-- 			 <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=@razlevio&hide_border=true&langs_count=5&theme=tokyonight&bg_color=ffffff00"> -->
-			<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=razlevio&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true&langs_count=10&custom_title=Wakatime Week Stats">
-			</a>
-		</td>
-		<td align="center">
-		 <a href="#go-nowhere">
-			<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razlevio&langs_count=10&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true">
-			</a>
-		</td>
    </tr>
-	    </table>
+    <tr>
+    <tr>
+	<td align="center">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=razlevio&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true&langs_count=10&custom_title=Wakatime%20Week%20Stats">
+	</td>
+	<td align="center">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razlevio&langs_count=10&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true">
+	</td>
+   </tr>
+</table>
+	  	
   
   <!--<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=razlevio&bg='#000'" width="92%">-->
 
