@@ -34,7 +34,6 @@
 - :brain: Mindset: "Live as if you were to die tomorrow, Learn as if you were to live forever"
 - :dart: Life Hack: "The better we get at getting better, the faster we will get better"
 - :zap: Fun fact: I am a Tennis player
-<br>
 
 <details>
     <summary><h3>𝐖𝐡𝐨 𝐚𝐦 𝐈?<h3></summary>
