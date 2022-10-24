@@ -9,9 +9,9 @@
 <!-- Tech Stack Section -->
 ## 🛠️ 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
 <div>
-  <b>ᴩʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇꜱ</b>
+  <b>ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ</b>
   <br>
-  <img src="https://skillicons.dev/icons?i=py,js,java,html,css,sass,sqlite,mysql"/>
+  <img src="https://skillicons.dev/icons?i=py,js,java,html,css,sass,sqlite,mysql,mongodb"/>
 </div>
 <div>
   <b>ꜰʀᴀᴍᴇᴡᴏʀᴋꜱ<b>
@@ -19,7 +19,7 @@
   <img src="https://skillicons.dev/icons?i=django,react,bootstrap,jquery"/>
 </div>
 <div>
-  <b>ᴛᴏᴏʟꜱ ᴀɴᴅ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ</b>
+  <b>ᴛᴏᴏʟꜱ</b>
   <br>
   <img src="https://skillicons.dev/icons?i=git,github,linux,bash,md,latex,vscode,idea,"/>
 </div>
