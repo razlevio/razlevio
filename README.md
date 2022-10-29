@@ -11,17 +11,17 @@
 <div>
   <b>ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ</b>
   <br>
-  <img src="https://skillicons.dev/icons?i=py,js,java,html,css,sass,sqlite,mysql,mongodb"/>
+  <img src="https://skillicons.dev/icons?i=py,js,nodejs,java,html,css,sass,sqlite,mysql,mongodb"/>
 </div>
 <div>
   <b>ꜰʀᴀᴍᴇᴡᴏʀᴋꜱ<b>
   <br>
-  <img src="https://skillicons.dev/icons?i=django,react,bootstrap,jquery"/>
+  <img src="https://skillicons.dev/icons?i=django,express,react,bootstrap,jquery"/>
 </div>
 <div>
   <b>ᴛᴏᴏʟꜱ</b>
   <br>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,md,latex,vscode,idea,"/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,md,latex,vscode,idea"/>
 </div>
 <br>
 
