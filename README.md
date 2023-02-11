@@ -11,7 +11,7 @@
 <div>
   <b>ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ</b>
   <br>
-  <img src="https://skillicons.dev/icons?i=py,js,nodejs,java,html,css,sqlite,mysql,mongodb"/>
+  <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,html,css,sqlite,mysql,mongodb"/>
 </div>
 <div>
   <b>ꜰʀᴀᴍᴇᴡᴏʀᴋꜱ<b>
@@ -21,7 +21,7 @@
 <div>
   <b>ᴛᴏᴏʟꜱ</b>
   <br>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,md,latex,vscode,idea"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vite,webpack,linux,bash,md,latex,vscode,idea"/>
 </div>
 <br>
 
