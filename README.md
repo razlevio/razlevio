@@ -16,7 +16,7 @@
 <div>
   <b>ꜰʀᴀᴍᴇᴡᴏʀᴋꜱ<b>
   <br>
-  <img src="https://skillicons.dev/icons?i=django,express,react,tailwind,bootstrap,jquery"/>
+  <img src="https://skillicons.dev/icons?i=django,express,react,tailwind,bootstrap,threejs,jquery"/>
 </div>
 <div>
   <b>ᴛᴏᴏʟꜱ</b>
