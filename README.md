@@ -29,7 +29,6 @@
 ## 📜 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 <h4>Hi <img src="resources/wave.gif" width="30px">, I am Raz Levi</h4>
     
-- :computer: I'm currently Computer Science Student
 - :rocket: Always ready to collaborate on development experiments and open source projects
 - :brain: Mindset: "Live as if you were to die tomorrow, Learn as if you were to live forever"
 - :dart: Life Hack: "The better we get at getting better, the faster we will get better"
