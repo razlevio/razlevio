@@ -26,17 +26,9 @@
 <br>
 
 <!-- About Me Section -->
-## 📜 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
-<h4>Hi <img src="resources/wave.gif" width="30px">, I am Raz Levi</h4>
-    
-- :rocket: Always ready to collaborate on development experiments and open source projects
-- :brain: Mindset: "Live as if you were to die tomorrow, Learn as if you were to live forever"
-- :dart: Life Hack: "The better we get at getting better, the faster we will get better"
-- :zap: Fun fact: I am a Tennis player
-
 <details>
     <summary><h3>𝐖𝐡𝐨 𝐚𝐦 𝐈?<h3></summary>
-    <p>Diligent and self-taught software engineer dedicated to continuous learning and growth, passionate about creating innovative and transformative digital solutions. With expertise in both front-end and back-end development, I am committed to making a meaningful impact on the world through software development. I constantly seek opportunities to leverage my technical skills and abilities to drive technical solutions and solve practical problems, striving to stand at the forefront of technology and shape the industry's future. Through a combination of creativity and technical expertise, I aspire to develop software that not only meets the needs of users but also pushes the boundaries of what is possible.</p>
+    <p>Diligent and self-taught software engineer dedicated to continuous learning and growth, passionate about creating innovative and transformative digital solutions. I constantly seek opportunities to leverage my technical skills and abilities to drive technical solutions and solve practical problems, striving to stand at the forefront of technology and shape the industry's future. Through a combination of creativity and technical expertise, I aspire to develop software that not only meets the needs of users but also pushes the boundaries of what is possible.</p>
 </details>
 
 
