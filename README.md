@@ -1,5 +1,4 @@
 <!-- PREFERRED ICON STYLES: style=for-the-badge OR style=flat-square -->
-
 <!-- Intro Section -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razlevio" alt="razlevio" /> </p>
@@ -11,26 +10,19 @@
 <div>
   <b>ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ</b>
   <br>
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,py,html,css,sqlite,mysql,postgresql"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,py,html,css,mysql,postgresql,redis"/>
 </div>
 <div>
   <b>ꜰʀᴀᴍᴇᴡᴏʀᴋꜱ<b>
   <br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,django,express,threejs"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,express,tailwind,threejs"/>
 </div>
 <div>
   <b>ᴛᴏᴏʟꜱ</b>
   <br>
-  <img src="https://skillicons.dev/icons?i=git,github,prisma,vercel,vite,linux,bash,md,latex,vscode,postman"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,prisma,vercel,linux,bash,md,latex,vscode,postman"/>
 </div>
 <br>
-
-<!-- About Me Section -->
-<details>
-    <summary><h3>𝐖𝐡𝐨 𝐚𝐦 𝐈?<h3></summary>
-    <p>Diligent and self-taught software engineer dedicated to continuous learning and growth, passionate about creating innovative and transformative digital solutions. I constantly seek opportunities to leverage my technical skills and abilities to drive technical solutions and solve practical problems, striving to stand at the forefront of technology and shape the industry's future. Through a combination of creativity and technical expertise, I aspire to develop software that not only meets the needs of users but also pushes the boundaries of what is possible.</p>
-</details>
-
 
 <!-- Stats Section -->
 ## 📊 𝐆𝐢𝐭𝐇𝐮𝐛 & 𝐂𝐨𝐝𝐢𝐧𝐠 𝐒𝐭𝐚𝐭𝐬
