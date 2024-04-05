@@ -15,7 +15,7 @@
 <div>
   <b>ꜰʀᴀᴍᴇᴡᴏʀᴋꜱ<b>
   <br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,express,tailwind,threejs"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,express,tailwind,threejs"/>
 </div>
 <div>
   <b>ᴛᴏᴏʟꜱ</b>
