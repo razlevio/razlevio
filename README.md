@@ -42,8 +42,12 @@
    </tr>
 </table> -->
 
-<!-- Contact Information Section -->
+<!-- Full stack engineer and serial entrepreneur who loves turning complex problems into elegant solutions. My passion lies in creating innovative digital products that push technological boundaries. When I'm not coding or brainstorming the next big idea, I'm contributing to Israel's digital transformation through the National Digital Bureau. Always eager to learn and collaborate, I believe in the power of technology to make the world a bit smarter, faster, and more user-friendly.<br> Remember, impossible is just a challenge waiting to be conquered! -->
 
+Diligent and self-taught full stack engineer dedicated to continuous learning and growth, passionate about creating innovative and transformative digital solutions. I constantly seek opportunities to leverage my technical skills and abilities to drive technical solutions and solve practical problems, striving to stand at the forefront of technology and shape the industry's future. Through a combination of creativity and technical expertise, I aspire to develop software that not only meets the needs of users but also pushes the boundaries of what is possible.
+
+
+<!-- Contact Information Section -->
 ## ❤️ 𝐋𝐞𝐭'𝐬 𝐠𝐞𝐭 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝
 
 <a href="https://www.linkedin.com/in/razlevi/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/> </a>
