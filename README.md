@@ -1,12 +1,8 @@
-<!-- PREFERRED ICON STYLES: style=for-the-badge OR style=flat-square -->
 <!-- Intro Section -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=razlevio" alt="razlevio" /> </p>
-<!-- <a href="#"><img width="100%" height="auto" src="cover-intro.png" height="175px"/></a>
-<p align="center"> <img src="resources/code.gif" alt="WelcomeImage" height=300/> </p> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=razlevio" alt="razlevio" /> </p> -->
 
 <!-- Tech Stack Section -->
-## 🛠️ 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
+<!-- ## 🛠️ 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
 <div>
   <b>ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ</b>
   <br>
@@ -22,11 +18,10 @@
   <br>
   <img src="https://skillicons.dev/icons?i=git,github,docker,prisma,vercel,linux,bash,md,latex,vscode,postman"/>
 </div>
-<br>
+<br> -->
 
-<!-- Stats Section -->
+<!-- Stats Section
 ## 📊 𝐆𝐢𝐭𝐇𝐮𝐛 & 𝐂𝐨𝐝𝐢𝐧𝐠 𝐒𝐭𝐚𝐭𝐬
-  
  <table align="center">
   <tr>
       <td align="center">
@@ -45,16 +40,14 @@
 		<a href="https://github.com/razlevio/" target=”_blank” rel="noopener noreferrer"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razlevio&langs_count=10&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true"></a>
 	</td>
    </tr>
-</table>
-	  
-  <!--<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=razlevio&bg='#000'" width="92%">-->
+</table> -->
 
-<!---------------------------------------------------------------------------------------------------------------------------------------------------->
 <!-- Contact Information Section -->
+
 ## ❤️ 𝐋𝐞𝐭'𝐬 𝐠𝐞𝐭 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝
+
 <a href="https://www.linkedin.com/in/razlevi/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/> </a>
 <a href="https://twitter.com/razlevio"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href="mailto:razlevio.55@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 <a href="https://github.com/razlevio"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
 <a href="https://inconstruction"><img src="https://img.icons8.com/fluent/48/000000/internet.png"/></a>
-
