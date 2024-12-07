@@ -1,4 +1,4 @@
-A full stack engineer who turns challenges into elegant solutions, I combine technical expertise with creative problem-solving to build impactful software across various domains.
+A full stack software engineer who turns challenges into elegant solutions, I combine technical expertise with creative problem-solving to build impactful software across various domains.
 
 ##
 
